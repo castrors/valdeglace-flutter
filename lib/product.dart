@@ -3,7 +3,7 @@ class Product {
   final String name;
   final String description;
   final String defaultImage =
-      'https://firebasestorage.googleapis.com/v0/b/sufficientgoldfish.appspot.com/o/angelfish-silhouette.png?alt=media&token=76663301-d3d5-4c49-a7ea-db1f163d5c06';
+      'https://scontent.fudi1-2.fna.fbcdn.net/v/t1.0-9/13932804_1413925025290301_8710348734503395959_n.jpg?_nc_cat=0&oh=4eb931124cc4c9a02f901f42e9fc8119&oe=5B8EE36B';
 
   const Product(this.id, this.name, this.description);
 
